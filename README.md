@@ -4,7 +4,7 @@
 
 ## あそびかた
 
-1. [旅行ルーレットを開く](https://1ichi1.github.io/roulette/)
+1. [旅行ルーレットを開く]
 2. 「全国20エリア」から最初のルーレットを回す
 3. 当選したエリアの5候補から2回目を回す
 4. 行き先が決定！ 結果を友達に共有できます
@@ -16,10 +16,10 @@
 
 ## GitHub Pages を有効にする（リポジトリの管理者向け）
 
-1. [Settings → Pages](https://github.com/1IchI1/roulette/settings/pages) を開く
+1. [Settings → Pages]を開く
 2. **Build and deployment → Source** を **Deploy from a branch** に設定する
 3. **Branch: main / (root)** を選び **Save**
-4. 公開されたら https://1ichi1.github.io/roulette/ を友達に送る
+4. 公開されたら友達に送る
 
 静的HTMLだけで動き、アプリのインストール・ログインは必要ありません。
 
